@@ -310,7 +310,7 @@ GEM
       rainbow (>= 2.2.2, < 4.0)
       terminal-table (>= 1.5.1)
     io-console (0.7.2)
-    irb (1.11.1)
+    irb (1.12.0)
       rdoc
       reline (>= 0.4.2)
     jbuilder (2.11.5)
@@ -467,7 +467,7 @@ GEM
     rdoc (6.6.2)
       psych (>= 4.0.0)
     regexp_parser (2.9.0)
-    reline (0.4.2)
+    reline (0.4.3)
       io-console (~> 0.5)
     representable (3.2.0)
       declarative (< 0.1.0)
